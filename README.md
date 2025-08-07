@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on improving and learning <br>🌱 I’m currently learning python
+![Uploading giphy.gif…]()
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwxaTQzd3czbWNlZ3dlbzBkZmJka3NuYmNqOXhnNWw3cWh3ODFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grH5efj95AU7ghsqCN/giphy.gif
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egrazm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliasgonram@gmail.com) 
 
