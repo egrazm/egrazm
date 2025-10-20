@@ -1,5 +1,5 @@
   # 💫 About Me :  
-🔭 I’m currently working on improving and learning <br>🌱 I’m trying to learn a lot of stuff 
+🔭 I’m currently working on improving and learning <br>🌱 I’m trying to learn a lot of stuff.
      
       
 ![giphy](https://github.com/user-attachments/assets/59e82a8d-b6a0-4df6-9dd4-01a5a3b2da01)
