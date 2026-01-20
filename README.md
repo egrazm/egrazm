@@ -2,7 +2,7 @@
 🔭 I’m currently working on improving and learning <br>🌱 I’m trying to learn a lot of stuff.
        
       
-![giphy](https://github.com/user-attachments/assets/59e82a8d-b6a0-4df6-9dd4-01a5a3b2da01)
+![giphy](https://github.com/user-attachments/assets/59e82a8d-b6a0-4df6-9dd4-01a5a3b2da01)   
 
 <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
 
